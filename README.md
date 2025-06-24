@@ -25,7 +25,7 @@
 - Create a Resource Group
 - Create a Windows 10 Virtual Machine (VM) and select the previously created Resource Group. Allow VM to create a new Virtual Network (Vnet) and Subnet
 - Create a Linux (Ubuntu) VM and select the previously created Resource Group and Virtual Network. The Windows and Linux Virtual Networks MUST BE THE SAME
-- Specify Credentials, check Licensing Agreement and click "Review and Create" 
+- Specify Credentials, check Licensing Agreement and click "Review + Create" 
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -36,7 +36,7 @@
 
 </p>
 <p>
-From the Azure home page, click on "Resource Groups" and select "create new" Resource Group. Specify your Subscription, Resource Group Name, and Region. Click "Review and Create" 
+From the Azure home page, click on "Resource Groups" and select "create new" Resource Group. Specify your Subscription, Resource Group Name, and Region. Click "Review + Create" 
 </p>
 <br />
 
@@ -56,12 +56,13 @@ From the Azure home page, click on Virtual Machines and select "Create New", Vir
 
 </p>
 <p>
-From the Networding tab, we'll need to specify a name for our Virtual Network. This is important because the Linux VM must have the same Virtual network Name. The rest is set by default and we now click "Review and Create"  
+From the Networding tab, we'll need to specify a name for our Virtual Network. This is important because the Linux VM must have the same Virtual network Name. The rest is set by default and we now click "Review + Create"  
 </p>
 <br />
 
 <p>
 
+![Screenshot 2025-06-24 104839](https://github.com/user-attachments/assets/72308dfa-a8ac-4d83-82f4-5ec4e332536b)
 ![image](https://github.com/user-attachments/assets/7836b4a2-708a-49d3-9af8-62ced2c2b575)
 
 </p>
@@ -81,10 +82,12 @@ We will follow the same process to create the Linux Virtual Machine by clicking 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2025-06-24 112754](https://github.com/user-attachments/assets/cbbf048e-388c-4bca-9b71-99856e416288)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Networking Tab, make sure the Virtual Network Name is the same as the Windows Virtual Machine. Click "Review + Create"
 </p>
 <br />
 
