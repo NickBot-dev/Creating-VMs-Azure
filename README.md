@@ -67,7 +67,7 @@ From the Networding tab, we'll need to specify a name for our Virtual Network. T
 
 </p>
 <p>
-After the Virtual Machine is successfully deployed, you can click on the Windows VM to view information. You will notice the Operating System, Ram Size, Public/Private IP Address, Virtual Network/Subnet, and Disk. This will also be created with the Linux Virtual Machine   
+After the Windows Virtual Machine(VM) is successfully deployed, you can click on the Windows VM to view information. You will notice the Operating System, Ram Size, Public/Private IP Address, Virtual Network/Subnet, and Disk. This will also be created with the Linux Virtual Machine   
 </p>
 <br />
 
