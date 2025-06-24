@@ -92,9 +92,11 @@ From the Networking Tab, make sure the Virtual Network Name is the same as the W
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2025-06-24 115904](https://github.com/user-attachments/assets/b8576b4f-9241-4764-9b65-4e58d68b0c57)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After both Virtual Machine's (VMs) have been successfully deployed, both VMs will appear after clicking on Virtual Machines. We have successfully deployed a Windows and Linux Virtual Machine (VM)! 
 </p>
 <br />
