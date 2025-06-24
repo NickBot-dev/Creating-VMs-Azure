@@ -63,11 +63,11 @@ From the Networding tab, we'll need to specify a name for our Virtual Network. T
 <p>
 
 ![Screenshot 2025-06-24 104839](https://github.com/user-attachments/assets/72308dfa-a8ac-4d83-82f4-5ec4e332536b)
-![image](https://github.com/user-attachments/assets/7836b4a2-708a-49d3-9af8-62ced2c2b575)
+![image](https://github.com/user-attachments/assets/3125ee5d-480f-4539-ab76-66a3e9c8fa5a)
 
 </p>
 <p>
-After the VM is successfully deployed, you can click on "Resource Groups" from the home page to view contents. You will notice the Virtual Network name, Virtual Machine name, Public IP Address, Network Security Group (NSG), Network Interface Card (NIC), and Disk. Each one of these will also be created with the Linux Virtual Machine   
+After the Virtual Machine is successfully deployed, you can click on the Windows VM to view information. You will notice the Operating System, Ram Size, Public/Private IP Address, Virtual Network/Subnet, and Disk. This will also be created with the Linux Virtual Machine   
 </p>
 <br />
 
