@@ -22,7 +22,7 @@
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Create Resource Group
 - Step 2
 - Step 3
 - Step 4
