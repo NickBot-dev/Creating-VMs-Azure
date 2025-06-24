@@ -66,15 +66,17 @@ From the Networding tab, we'll need to specify a name for our Virtual Network. T
 
 </p>
 <p>
-After the VM is successfully deployed, you can click on "Resource Groups" from the home page to view contents. You will notice the Virtual Network name, Virtual Machine name, Public IP Address, Network Security Group (NSG), Network Interface Card (NIC), and Disk   
+After the VM is successfully deployed, you can click on "Resource Groups" from the home page to view contents. You will notice the Virtual Network name, Virtual Machine name, Public IP Address, Network Security Group (NSG), Network Interface Card (NIC), and Disk. Each one of these will also be created with the Linux Virtual Machine   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2025-06-24 112658](https://github.com/user-attachments/assets/c320faf4-e778-4a1d-b5d0-ec4ee9764fce)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will follow the same process to create the Linux Virtual Machine by clicking on "Virtual Machines" and selecting "Create New".  Select the previously created Resource Group, Virtual Machine Name, Region, and Zone. Select "Ubuntu Server 22.44 LTS - x64 Gen2"  for the Image and at least 2 Virtual CPU's (vcpus)  
 </p>
 <br />
 
