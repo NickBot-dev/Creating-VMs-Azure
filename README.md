@@ -97,6 +97,6 @@ From the Networking Tab, make sure the Virtual Network Name is the same as the W
 
 </p>
 <p>
-After both Virtual Machines (VMs) have been successfully deployed, both VMs will appear after clicking on Virtual Machines. We have successfully deployed a Windows and Linux Virtual Machine (VM)! 
+After both Virtual Machines (VMs) have been successfully deployed, both VMs will appear after clicking on Virtual Machines. We have successfully deployed a Windows and Linux Virtual Machine from within the cloud using Microsoft Azure! 
 </p>
 <br />
