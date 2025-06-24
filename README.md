@@ -53,7 +53,6 @@ From the Azure home page, click on Virtual Machines and select "Create New", Vir
 <p>
 
  ![Screenshot 2025-06-24 103746](https://github.com/user-attachments/assets/eca250d0-143f-4099-a600-5aa3da3aada7)
- ![Screenshot 2025-06-24 104839](https://github.com/user-attachments/assets/ee8e9705-eda8-4d34-9810-aa3a1d12a095)
 
 </p>
 <p>
@@ -62,10 +61,12 @@ From the Networding tab, we'll need to specify a name for our Virtual Network. T
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/7836b4a2-708a-49d3-9af8-62ced2c2b575)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the VM is successfully deployed, you can click on "Resource Groups" from the home page to view contents. You will notice the Virtual Network name, Virtual Machine name, Public IP Address, Network Security Group (NSG), Network Interface Card (NIC), and Disk   
 </p>
 <br />
 
