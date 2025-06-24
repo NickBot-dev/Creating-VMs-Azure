@@ -22,10 +22,10 @@
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create Resource Group
-- Step 2
-- Step 3
-- Step 4
+- Create a Resource Group
+- Create a Windows 10 Virtual Machine (VM) and select the previously created Resource Group. Allow it to create a new Virtual Network (Vnet) and Subnet
+- Create a Linux (Ubuntu) VM and select the previously created Resource Group and Virtual Network. The Windows and Linux Virtual Networks MUST BE THE SAME.
+- Specify Credentials and click "Review and Create" 
 
 <h2>Deployment and Configuration Steps</h2>
 
