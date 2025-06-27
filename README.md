@@ -77,7 +77,7 @@ After the Windows Virtual Machine(VM) is successfully deployed, you can click on
 
 </p>
 <p>
-We will follow the same process to create the Linux Virtual Machine by clicking on "Virtual Machines" and selecting "Create New".  Select the previously created Resource Group, Virtual Machine Name, Region, and Zone. Select "Ubuntu Server 22.44 LTS - x64 Gen2"  for the Image and at least 2 Virtual CPU's (vcpus)  
+We will follow the same process to create the Linux Virtual Machine by clicking on "Virtual Machines" and selecting "Create New".  Select the previously created Resource Group, Virtual Network, Region, and Zone. Select "Ubuntu Server 22.44 LTS - x64 Gen2"  for the Image and at least 2 Virtual CPU's (vcpus)  
 </p>
 <br />
 
