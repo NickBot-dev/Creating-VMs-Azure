@@ -56,7 +56,7 @@ From the Azure home page, click on Virtual Machines and select "Create New", Vir
 
 </p>
 <p>
-From the Networding tab, we'll need to specify a name for our Virtual Network. This is important because the Linux VM must have the same Virtual network Name. The rest is set by default and we now click "Review + Create"  
+From the Networding tab, we'll need to specify a name for our Virtual Network. This is important because the Linux VM must have the same Virtual Network as the Windows VM. The rest is set by default, click "Review + Create"  
 </p>
 <br />
 
