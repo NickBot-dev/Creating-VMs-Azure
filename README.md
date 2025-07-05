@@ -87,7 +87,7 @@ We will follow the same process to create the Linux Virtual Machine by clicking 
 
 </p>
 <p>
-From the Networking Tab, make sure the Virtual Network Name is the same as the Windows Virtual Machine. Click "Review + Create"
+From the Networking Tab, make sure the Virtual Network Name of the Linux Virtual Machine is the same as the Windows Virtual Machine. Click "Review + Create"
 </p>
 <br />
 
