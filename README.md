@@ -46,7 +46,7 @@ From the Azure home page, click on "Resource Groups" and select "create new" Res
 
 </p>
 <p>
-From the Azure home page, click on Virtual Machines and select "Create New", Virtual Machine. Select the previously created Resource Group, Virtual Machine Name, Region, and Zone. Select "Windows 10 Pro" Image and at least 2 Virtual CPU's (vcpus)
+From the Azure home page, click on Virtual Machines and select "Create New", Virtual Machine. Select the previously created Resource Group, Virtual Machine Name, Region, and Zone. Select "Windows 10 Pro" Image and at least 2 Virtual CPU's (vcpus) with 8 or 16 gigabyte ram. 
 </p>
 <br />
 
@@ -56,7 +56,7 @@ From the Azure home page, click on Virtual Machines and select "Create New", Vir
 
 </p>
 <p>
-From the Networding tab, we'll need to specify a name for our Virtual Network. This is important because the Linux VM must have the same Virtual Network as the Windows VM. The rest is set by default, click "Review + Create"  
+From the Networding tab, we'll need to specify a name for our Virtual Network. This is important because the Linux Virtual Machine must have the same Virtual Network as the Windows Virtual Machine. The rest is set by default, click "Review + Create"  
 </p>
 <br />
 
@@ -67,7 +67,7 @@ From the Networding tab, we'll need to specify a name for our Virtual Network. T
 
 </p>
 <p>
-After the Windows Virtual Machine(VM) is successfully deployed, you can click on the Windows VM to view information. You will notice the Operating System, Ram Size, Public/Private IP Address, Virtual Network/Subnet, and Disk. This information will also be created with the Linux Virtual Machine   
+After the Windows Virtual Machine is successfully deployed, you can click on it to view the network information. You will notice the Operating System, Ram Size, Public/Private IP Address, Virtual Network/Subnet, and Disk. This information will also be created with the Linux Virtual Machine   
 </p>
 <br />
 
