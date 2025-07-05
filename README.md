@@ -9,7 +9,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- Create and Deploy Windows and Linux Virtual Machines with Microsoft Azure https://www.youtube.com/watch?v=RgNFd2AM7hs
 
 <h2>Environments and Technologies Used</h2>
 
