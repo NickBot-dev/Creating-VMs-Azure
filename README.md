@@ -23,9 +23,9 @@
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create a Resource Group
-- Create a Windows 10 Virtual Machine (VM) and select the previously created Resource Group. Allow VM to create a new Virtual Network (Vnet) and Subnet
-- Create a Linux (Ubuntu) VM and select the previously created Resource Group and Virtual Network. The Windows and Linux Virtual Networks MUST BE THE SAME
-- Specify Credentials, check Licensing Agreement and click "Review + Create" 
+- Create a Windows 10 Virtual Machine (VM) and select the previously created Resource Group. Allow the Windows VM to create a new virtual network (Vnet) and subnet
+- Create a Linux (Ubuntu) VM and select the previously created resource group and virtual network. The Windows and Linux virtual networks MUST BE THE SAME
+- Specify Credentials, check Licensing Agreement, and click "Review + Create" 
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -97,6 +97,6 @@ From the Networking Tab, make sure the Virtual Network Name of the Linux Virtual
 
 </p>
 <p>
-After both Virtual Machines (VMs) have been successfully deployed, both VMs will appear after clicking on Virtual Machines. We have successfully deployed a Windows and Linux Virtual Machine from within the cloud using Microsoft Azure! 
+After both virtual machines have been successfully deployed, both virtual machines will appear after clicking on virtual machines. We have successfully deployed a Windows and Linux virtual machine from within the cloud using Microsoft Azure! 
 </p>
 <br />
